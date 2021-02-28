@@ -1,5 +1,3 @@
-# Sotaro TANIGAWA
-
 I'm a Master's student at [GSHPA](https://www.gshpa.chiba-u.jp/), Chiba Univ.
 
 ## Research Areas
