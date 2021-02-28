@@ -1,4 +1,4 @@
-I'm a Master's student at [GSHPA](https://www.gshpa.chiba-u.jp/), Chiba Univ.
+I'm in a Master's program at [GSHPA](https://www.gshpa.chiba-u.jp/), Chiba Univ.
 
 ## Research Areas
 - Epistemology
