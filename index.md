@@ -13,6 +13,7 @@ I'm in a Master's program at [GSHPA](https://www.gshpa.chiba-u.jp/), Chiba Univ.
 - I'm running [Arch Linux](https://archlinux.org/), [StumpWM](https://stumpwm.github.io/) and [GNU Emacs](https://www.gnu.org/software/emacs/) on my machine.
 
 ## Accounts
+- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
 - [GitHub](https://github.com/sotanigawa)
 
 &copy; 2021 Sotaro Tanigawa
