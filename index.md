@@ -1,18 +1,18 @@
-I'm in a Master's program at [GSHPA](https://www.gshpa.chiba-u.jp/), Chiba Univ.
+## About me
 
-## Research Areas
-- Epistemology
-- Analytic Philosophy
+- I'm currently in a master's program at [Chiba University](https://www.chiba-u.ac.jp/).
+- My research interests lie in epistemology.
+- I also enjoy hacking (not cracking).
+  - I have some programming skills in [Python](https://www.python.org/), [Go](https://golang.org/) and so on.
+  - I love [Arch Linux](https://archlinux.org/), [StumpWM](https://stumpwm.github.io/) and [GNU Emacs](https://www.gnu.org/software/emacs/).
 
-## Papers
-- On the factivity of understanding in epistemology. _Chiba University Graduate School of Humanities and Study on Public Affairs Research Project Reports_, 359: 40&ndash;49, Feb 2021.
+## Publications
+
+- On the factivity of understanding in epistemology. _Chiba University Graduate School of Humanities and Study on Public Affairs Research Project Reports_, Number 359, Pages 40&ndash;49, February 2021.
 - On the certainty of empirical knowledge. Bachelor Thesis, 2020.
 
-## Other
-- I have some programming skills in Python, Golang, LISP, and so on.
-- I'm running [Arch Linux](https://archlinux.org/), [StumpWM](https://stumpwm.github.io/) and [GNU Emacs](https://www.gnu.org/software/emacs/) on my machine.
-
 ## Accounts
+
 - [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
 - [GitHub](https://github.com/sotanigawa)
 
