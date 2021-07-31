@@ -1,3 +1,5 @@
+You've reached Sotaro Tanigawa's website.
+
 - I'm currently in a master's program at [Chiba University](https://www.chiba-u.ac.jp/).
 - My research interests lie in epistemology.
 - I also enjoy hacking (not cracking).
