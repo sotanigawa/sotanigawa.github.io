@@ -1,7 +1,3 @@
----
-title: Resume of Sotaro Tanigawa
----
-
 ## Resume of Sotaro Tanigawa
 
 If you are reading a printed version, the latest version is available at \<{{ site.url }}{{ page.url }}\>.
