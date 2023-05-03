@@ -1,1 +1,3 @@
 title: Sotaro Tanigawa's Personal Website
+plugins:
+  - jekyll-sitemap
