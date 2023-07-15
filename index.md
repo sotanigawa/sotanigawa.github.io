@@ -11,11 +11,13 @@ Sotaro Tanigawa is a PhD student of philosophy at Chiba University. His current 
 
 ### Talks
 
-- Upcoming: **Do All Epistemic Values Derive From the Value of Truth?**  
-  The 2023 Japan Forum for Young Philosophers, Tokyo, July 16, 2023.
+- **Do All Epistemic Values Derive From the Value of Truth?**  
+  The Japan Forum for Young Philosophers, Tokyo, July 16, 2023.  
+  \[[slides](https://speakerdeck.com/sotanigawa/do-all-epistemic-values-derive-from-the-value-of-truth)\]
 
 ### Accounts
 
 - [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
+- [Speaker Deck](https://speakerdeck.com/sotanigawa)
 - [GitHub](https://github.com/sotanigawa)
 - [SoundCloud](https://soundcloud.com/user-760062511)
