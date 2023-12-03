@@ -11,8 +11,9 @@ Sotaro Tanigawa is a PhD student in philosophy at Chiba University. His current 
 
 ### Talks (mostly in Japanese)
 
-- **\[_Upcoming_\] On the Value of Understanding and Compression**  
-  56th Annual Meeting, Philosophy of Science Society, Japan (University of Tsukuba, December 2&ndash;3, 2023)
+- **On the Value of Understanding and Compression**  
+  56th Annual Meeting, Philosophy of Science Society, Japan (University of Tsukuba, December 2&ndash;3, 2023)  
+  \[[handout](archives/on-the-value-of-understanding-and-compression/handout.html)\]
 - **Do All Epistemic Values Derive From the Value of Truth?**  
   2023 Japan Forum for Young Philosophers (National Olympics Memorial Youth Center, July 15&ndash;16, 2023)  
   \[[slides](https://speakerdeck.com/sotanigawa/do-all-epistemic-values-derive-from-the-value-of-truth)\]
