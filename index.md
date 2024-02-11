@@ -1,26 +1,70 @@
-Sotaro Tanigawa is a PhD student in philosophy at Chiba University. His current research focuses on the value problems and the concept of understanding in epistemology. You can get his [resume](./resume.html) here.
+Sotaro Tanigawa is a PhD student at Chiba University, working mainly in epistemology, a branch of philosophy. The following topics are the current focus of his research:
+
+- The nature and value of knowledge, understanding, and wisdom
+- Value problems, the swamping problem, and epistemic value monism/pluralism
+- The relation between curiosity, inquiry, and epistemic goals
+
+He is also interested in empirical theories of learning in psychology and data science, as well as experimental approaches in philosophy.
+
+\[[GitHub](https://github.com/sotanigawa)\]
+\[[Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)\]
+\[[Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)\]
 
 ### Publications (mostly in Japanese)
 
-- **Internalism and Externalism About Understanding**  
-  _Japanese Student Research Notes of Philosophy of Science_ 6 (2023)  
-  \[[paper](http://pssj.info/jsrnps/contents/contents_data/PSSJ_JSRNPS6(2023)_TANIGAWA_Sotaro.pdf)\]
-- **On the Factivity of Understanding in Epistemology**  
-  _Chiba University Graduate School of Humanities and Studies on Public Affairs Research Project Reports_ 359 (2021)  
-  \[[paper](https://opac.ll.chiba-u.jp/da/curator/109491/359-p040.pdf)\]
+<ul>
+{% for p in site.data.achievements.publications %}
+  <li>
+    <strong>{{ p.title }}</strong><br />
+    <i>{{ p.journal }}</i>, Number {{ p.number }}, {{ p.year }}<br />
+    {% for url in p.urls %}
+    [<a href="{{ url[1] }}">{{ url[0] }}</a>]
+    {% endfor %}
+  </li>
+{% endfor %}
+</ul>
 
 ### Talks (mostly in Japanese)
 
-- **On the Value of Understanding and Compression**  
-  56th Annual Meeting, Philosophy of Science Society, Japan (University of Tsukuba, December 2&ndash;3, 2023)  
-  \[[handout](archives/on-the-value-of-understanding-and-compression/handout.html)\]
-- **Do All Epistemic Values Derive From the Value of Truth?**  
-  2023 Japan Forum for Young Philosophers (National Olympics Memorial Youth Center, July 15&ndash;16, 2023)  
-  \[[slides](https://speakerdeck.com/sotanigawa/do-all-epistemic-values-derive-from-the-value-of-truth)\]
+<ul>
+{% for t in site.data.achievements.talks %}
+  <li>
+    <strong>{{ t.title }}</strong><br />
+    <i>{{ t.conference }}</i>, {{ t.venue }}, {{ t.dates }}<br />
+    {% for url in t.urls %}
+    [<a href="{{ url[1] }}">{{ url[0] }}</a>]
+    {% endfor %}
+  </li>
+{% endfor %}
+</ul>
 
-### Accounts
+### Education
 
-- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
-- [Speaker Deck](https://speakerdeck.com/sotanigawa)
-- [GitHub](https://github.com/sotanigawa)
-- [SoundCloud](https://soundcloud.com/user-760062511)
+- **Graduate School of Humanities and Studies on Public Affairs, Chiba University**, April 2022 &ndash; Present  
+  _PhD Student in Philosophy_
+- **Graduate School of Humanities and Studies on Public Affairs, Chiba University** April 2020 &ndash; March 2022  
+  _MA in Philosophy_
+  - Thesis: “A Critical Study of Internalism About Understanding”
+- **Faculty of Letters, Ryukoku University**, April 2016 &ndash; March 2020  
+  _BA in Philosophy_
+  - Thesis: “On the Certainty of Empirical Knowledge”
+- **Aiko Junior/Senior High School**, April 2009 &ndash; March 2015
+
+### Professional Experience
+
+<ul>
+{% for p in site.data.experience.professional %}
+  <li><strong>{{ p.position }}</strong>, {{ p.institution }}, {{ p.duration }}</li>
+{% endfor %}
+</ul>
+
+### Teaching Experience
+
+<ul>
+{% for t in site.data.experience.teaching %}
+  <li><strong>{{ t.position }}</strong>, <i>{{ t.course_title }}</i>, {{ t.institution }}, {{ t.term }}</li>
+{% endfor %}
+{% for t in site.data.experience.tutoring %}
+  <li><strong>{{ t.position }}</strong>, {{ t.institution }}, {{ t.duration }}</li>
+{% endfor %}
+</ul>
