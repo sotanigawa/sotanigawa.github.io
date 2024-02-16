@@ -40,15 +40,14 @@ He is also interested in empirical theories of learning in psychology and data s
 
 ### Education
 
-- **Graduate School of Humanities and Studies on Public Affairs, Chiba University**, April 2022 &ndash; Present  
-  _PhD Student in Philosophy_
-- **Graduate School of Humanities and Studies on Public Affairs, Chiba University**, April 2020 &ndash; March 2022  
-  _MA in Philosophy_
-  - Thesis: “A Critical Study of Internalism About Understanding”
-- **Faculty of Letters, Ryukoku University**, April 2016 &ndash; March 2020  
-  _BA in Philosophy_
-  - Thesis: “On the Certainty of Empirical Knowledge”
-- **Aiko Junior/Senior High School**, April 2009 &ndash; March 2015
+<ul>
+{% for e in site.data.education %}
+  <li>
+    <strong>{{ e.institution }}</strong>, {{ e.during }}{% if e.degree %}<br />
+    <i>{{ e.degree }}</i>{% endif %}{% if e.thesis %}, Thesis: {{ e.thesis }}{% endif %}
+  </li>
+{% endfor %}
+</ul>
 
 ### Professional Experience
 
