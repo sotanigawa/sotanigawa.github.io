@@ -17,10 +17,10 @@ talks:
     venue: University of Tsukuba
     dates: December 2–3, 2023
     urls:
-      paper: archives/on-the-value-of-understanding-and-compression/handout.html
+      paper: docs/on-the-value-of-understanding-and-compression/handout.html
   - title: Do All Epistemic Values Derive From the Value of Truth?
     conference: 2023 Japan Forum for Young Philosophers
     venue: National Olympics Memorial Youth Center
     dates: July 15–16, 2023
     urls:
-      slides: https://speakerdeck.com/sotanigawa/do-all-epistemic-values-derive-from-the-value-of-truth
+      slides: docs/do-all-epistemic-values-derive-from-the-value-of-truth/slides.html
