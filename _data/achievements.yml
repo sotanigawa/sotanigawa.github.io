@@ -22,6 +22,8 @@ talks:
     conference: 2024 Japan Forum for Young Philosophers
     venue: National Olympics Memorial Youth Center
     dates: July 14, 2024
+    urls:
+      slides: docs/how-to-become-a-wise-person/slides.html
   - title: On the Value of Understanding and Compression
     conference: 56th Annual Meeting, Philosophy of Science Society, Japan
     venue: University of Tsukuba
