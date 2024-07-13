@@ -1,10 +1,4 @@
-Sotaro Tanigawa is a PhD student at Chiba University, working mainly in epistemology, a branch of philosophy. The following topics are the current focus of his research:
-
-- The nature and value of knowledge, understanding, and wisdom
-- Value problems, the swamping problem, and epistemic value monism/pluralism
-- The relation between curiosity, inquiry, and epistemic goals
-
-He is also interested in empirical theories of learning in psychology and data science, as well as experimental approaches in philosophy.
+Sotaro Tanigawa is a PhD student at Chiba University, working mainly in epistemology, a branch of philosophy.
 
 \[[GitHub](https://github.com/sotanigawa)\]
 \[[Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)\]
@@ -15,11 +9,12 @@ He is also interested in empirical theories of learning in psychology and data s
 <ul>
 {% for p in site.data.achievements.publications %}
   <li>
-    <strong>{{ p.title }}</strong><br />
-    <i>{{ p.journal }}</i>, Number {{ p.number }}, {{ p.year }}<br />
+    <strong>{{ p.title }}</strong>
     {% for url in p.urls %}
     [<a href="{{ url[1] }}">{{ url[0] }}</a>]
     {% endfor %}
+    <br />
+    <i>{{ p.journal }}</i>, Number {{ p.number }}, {{ p.year }}
   </li>
 {% endfor %}
 </ul>
@@ -29,11 +24,12 @@ He is also interested in empirical theories of learning in psychology and data s
 <ul>
 {% for t in site.data.achievements.talks %}
   <li>
-    <strong>{{ t.title }}</strong><br />
-    <i>{{ t.conference }}</i>, {{ t.venue }}, {{ t.dates }}<br />
+    <strong>{{ t.title }}</strong>
     {% for url in t.urls %}
     [<a href="{{ url[1] }}">{{ url[0] }}</a>]
     {% endfor %}
+    <br />
+    <i>{{ t.conference }}</i>, {{ t.venue }}, {{ t.dates }}
   </li>
 {% endfor %}
 </ul>
