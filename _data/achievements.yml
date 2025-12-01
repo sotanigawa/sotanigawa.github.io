@@ -18,25 +18,33 @@ publications:
     urls:
       paper: https://opac.ll.chiba-u.jp/da/curator/109491/359-p040.pdf
 talks:
+  - title: Swamping Problem and Reliabilism
+    conference: 58th Annual Meeting, Philosophy of Science Society, Japan
+    venue: Chuo University
+    dates: November 29, 2025
+    urls:
+      slides: docs/presentations/2025-pssj.pdf
   - title: Can Understanding Be Transmitted by Testimony?
     conference: Epistemology@Shibaura! Season 2
     venue: Shibaura Institute of Technology
     dates: July 12, 2025
+    urls:
+      slides: docs/presentations/2025-shibaura.pdf
   - title: "How to Become a Wise Person: Virtue Theory and Consequentialism"
     conference: 2024 Japan Forum for Young Philosophers
     venue: National Olympics Memorial Youth Center
     dates: July 14, 2024
     urls:
-      slides: docs/how-to-become-a-wise-person/slides.html
+      slides: docs/presentations/2024-wakate-forum.html
   - title: On the Value of Understanding and Compression
     conference: 56th Annual Meeting, Philosophy of Science Society, Japan
     venue: University of Tsukuba
     dates: December 3, 2023
     urls:
-      paper: docs/on-the-value-of-understanding-and-compression/handout.html
+      handout: docs/presentations/2023-pssj.html
   - title: Do All Epistemic Values Derive From the Value of Truth?
     conference: 2023 Japan Forum for Young Philosophers
     venue: National Olympics Memorial Youth Center
     dates: July 16, 2023
     urls:
-      slides: docs/do-all-epistemic-values-derive-from-the-value-of-truth/slides.html
+      slides: docs/presentations/2023-wakate-forum.html
