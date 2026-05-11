@@ -1,4 +1,6 @@
 title: 谷川綜太郎（Sotaro Tanigawa）
 description: 谷川綜太郎（Sotaro Tanigawa）のアカデミック・ポートフォリオ
+lang: ja
+locale: ja_JP
 plugins:
   - jekyll-sitemap
