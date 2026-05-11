@@ -1,0 +1,36 @@
+# 職歴
+experience:
+  - position: 非常勤講師
+    institution: 東京医療保健大学医療保健学部
+    duration: 2026年度–現在
+  - position: 技術補佐員
+    institution: 千葉大学人文科学研究院
+    duration: 2022–2024年度・夏学期のみ
+  - position: ティーチング・フェロー
+    institution: 千葉大学大学院人文公共学府
+    duration: 2024年度
+  - position: ティーチング・アシスタント
+    institution: 千葉大学全学教育センター
+    duration: 2023–2024年度
+  - position: チューター
+    institution: 千葉大学大学院人文公共学府
+    duration: 2022年度
+  - position: ティーチング・アシスタント
+    institution: 千葉大学文学部
+    duration: 2020–2022年度
+
+# 学歴
+education:
+  - institution: 千葉大学大学院人文公共学府博士後期課程人文公共学専攻人文科学コース
+    duration: 2022年4月–現在
+  - institution: 千葉大学大学院人文公共学府博士前期課程人文科学専攻基盤文化コース
+    duration: 2020年4月–2022年3月
+  - institution: 龍谷大学文学部哲学科哲学専攻
+    duration: 2016年4月–2020年3月
+  - institution: 愛光中学・高等学校
+    duration: 2009年4月–2015年3月
+
+# 担当経験のある科目
+courses:
+  - title: クリティカル・シンキングI
+    institution: 東京医療保健大学

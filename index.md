@@ -1,65 +1,66 @@
-Sotaro Tanigawa is a PhD student at Chiba University, working mainly in epistemology, a branch of philosophy.
+- [GitHub](https://github.com/sotanigawa)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)
+- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
 
-\[[GitHub](https://github.com/sotanigawa)\]
-\[[Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)\]
-\[[Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)\]
+## 学位
 
-### Publications (mostly in Japanese)
+- 修士（文学）（千葉大学、2022年3月）（学位論文：理解の内在主義に対する批判的検討）
+- 学士（文学）（龍谷大学、2020年3月）（学位論文：経験的知識の確実性について）
+
+## 職歴
 
 <ul>
-{% for p in site.data.achievements.publications %}
+  {% for experience in site.data.cv.experience %}
+  <li>{{ experience.institution }}、{{ experience.position }}（{{ experience.duration }}）</li>
+  {% endfor %}
+</ul>
+
+## 学歴
+
+<ul>
+  {% for education in site.data.cv.education %}
+  <li>{{ education.institution }}（{{ education.duration }}）</li>
+  {% endfor %}
+</ul>
+
+## 論文
+
+<ul>
+  {% for publication in site.data.outputs.publications %}
   <li>
-    <strong>{{ p.title }}</strong>
-    {% for url in p.urls %}
-    [<a href="{{ url[1] }}">{{ url[0] }}</a>]
-    {% endfor %}
-    <br />
-    <i>{{ p.journal }}</i>, Number {{ p.number }}, {{ p.year }}
+    {{ publication.title }} [<a href="{{ publication.url }}">刊行版へのアクセス</a>]<br />
+    {% if publication.type == "incollection" %}
+    {{ publication.booktitle }}（{{ publication.series }}、第{{ publication.number }}号）、{{ publication.year }}年
+    {% elsif publication.type == "article" %}
+    {{ publication.journal }}、第{{ publication.number }}号、{{ publication.year }}年
+    {% endif %}
   </li>
-{% endfor %}
+  {% endfor %}
 </ul>
 
-### Talks (mostly in Japanese)
+## 口頭発表
 
 <ul>
-{% for t in site.data.achievements.talks %}
+  {% for presentation in site.data.outputs.presentations %}
   <li>
-    <strong>{{ t.title }}</strong>
-    {% for url in t.urls %}
-    [<a href="{{ url[1] }}">{{ url[0] }}</a>]
-    {% endfor %}
-    <br />
-    <i>{{ t.conference }}</i>, {{ t.venue }}, {{ t.dates }}
+    {{ presentation.title }}
+    {% for link in presentation.links %}
+    [<a href="{{ link.url }}">{{ link.label }}</a>]
+    {% endfor %}<br />
+    {{ presentation.conference }}（{{ presentation.venue }}）、{{ presentation.date }}
   </li>
-{% endfor %}
+  {% endfor %}
 </ul>
 
-### Education
+## 担当経験のある科目
 
 <ul>
-{% for e in site.data.education %}
-  <li>
-    <strong>{{ e.institution }}</strong>, {{ e.during }}{% if e.degree %}<br />
-    <i>{{ e.degree }}</i>{% endif %}{% if e.thesis %}, Thesis: {{ e.thesis }}{% endif %}
-  </li>
-{% endfor %}
+  {% for course in site.data.cv.courses %}
+  <li>{{ course.title }}（{{ course.institution }}）</li>
+  {% endfor %}
 </ul>
 
-### Professional Experience
+## 所属学会
 
-<ul>
-{% for p in site.data.experience.professional %}
-  <li><strong>{{ p.position }}</strong>, {{ p.institution }}, {{ p.duration }}</li>
-{% endfor %}
-</ul>
-
-### Teaching Experience
-
-<ul>
-{% for t in site.data.experience.teaching %}
-  <li><strong>{{ t.position }}</strong>, <i>{{ t.course_title }}</i>, {{ t.institution }}, {{ t.term }}</li>
-{% endfor %}
-{% for t in site.data.experience.tutoring %}
-  <li><strong>{{ t.position }}</strong>, {{ t.institution }}, {{ t.duration }}</li>
-{% endfor %}
-</ul>
+- 日本科学哲学会
+- 応用哲学会

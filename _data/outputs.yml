@@ -1,0 +1,60 @@
+# 論文
+publications:
+  - type: incollection
+    title: 好奇心をめぐる認識論上の問題
+    booktitle: 理由と規範の諸相
+    series: 千葉大学大学院人文公共学府研究プロジェクト報告書
+    number: 383
+    year: 2024
+    url: https://opac.ll.chiba-u.jp/da/curator/900122407/383-p038.pdf
+  - type: article
+    title: 理解についての内在主義と外在主義
+    journal: 新進研究者 Research Notes
+    number: 6
+    year: 2023
+    url: http://pssj.info/jsrnps/contents/contents_data/PSSJ_JSRNPS6(2023)_TANIGAWA_Sotaro.pdf
+  - type: incollection
+    title: 認識論における理解の叙実性について
+    booktitle: 客観的世界と人称的世界についての研究
+    series: 千葉大学大学院人文公共学府研究プロジェクト報告書
+    number: 359
+    year: 2021
+    url: https://opac.ll.chiba-u.jp/da/curator/109491/359-p040.pdf
+
+# 口頭発表
+presentations:
+  - title: 打ち負かし（Swamping）問題と信頼性主義
+    conference: 日本科学哲学会第58回大会
+    venue: 中央大学
+    date: 2025年11月29日
+    links:
+      - label: 発表スライド
+        url: docs/presentations/2025-pssj.pdf
+  - title: Can Understanding Be Transmitted by Testimony?
+    conference: Epistemology@Shibaura! Season 2
+    venue: 芝浦工業大学
+    date: 2025年7月12日
+    links:
+      - label: 発表スライド
+        url: docs/presentations/2025-shibaura.pdf
+  - title: 賢い人になる方法：徳理論と帰結主義
+    conference: 2024年度哲学若手研究者フォーラム研究集会
+    venue: 国立オリンピック記念青少年総合センター
+    date: 2024年7月14日
+    links:
+      - label: 発表スライド
+        url: docs/presentations/2024-wakate-forum.html
+  - title: 理解の価値と圧縮について
+    conference: 日本科学哲学会第56回大会
+    venue: 筑波大学
+    date: 2023年12月3日
+    links:
+      - label: 配布資料
+        url: docs/presentations/2023-pssj.html
+  - title: すべての認識的価値は真理の価値に由来するか？
+    conference: 2023年度哲学若手研究者フォーラム研究集会
+    venue: 国立オリンピック記念青少年総合センター
+    date: 2023年7月16日
+    links:
+      - label: 発表スライド
+        url: docs/presentations/2023-wakate-forum.html
