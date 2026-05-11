@@ -1,7 +1,3 @@
-- [GitHub](https://github.com/sotanigawa)
-- [Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)
-- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
-
 ## 学位
 
 - 修士（文学）（千葉大学、2022年3月）（学位論文：理解の内在主義に対する批判的検討）
@@ -64,3 +60,9 @@
 
 - 日本科学哲学会
 - 応用哲学会
+
+---
+
+- [GitHub](https://github.com/sotanigawa)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)
+- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
