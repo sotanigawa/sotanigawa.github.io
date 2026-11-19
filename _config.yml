@@ -1,6 +1,8 @@
 title: 谷川綜太郎（Sotaro Tanigawa）
 description: 谷川綜太郎（Sotaro Tanigawa）の個人的なウェブサイト
+author: 谷川綜太郎
 lang: ja
 locale: ja_JP
+theme: jekyll-theme-primer
 plugins:
   - jekyll-sitemap
