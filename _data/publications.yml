@@ -1,0 +1,35 @@
+# 論文
+# type と各キーは BibTeX のエントリ型・フィールド名に合わせている。
+#   incollection：booktitle（書名）、series（シリーズ名）、number（シリーズの番号）
+#   article：journal（誌名）、number（号）
+# links は [ラベル] の形でタイトルの後ろに並ぶリンク。
+# 表示順は year の新しい順に自動で並ぶ。
+
+- type: incollection
+  title: 好奇心をめぐる認識論上の問題
+  booktitle: 理由と規範の諸相
+  series: 千葉大学大学院人文公共学府研究プロジェクト報告書
+  number: 383
+  year: 2024
+  links:
+    - label: 刊行版へのアクセス
+      url: https://opac.ll.chiba-u.jp/da/curator/900122407/383-p038.pdf
+
+- type: article
+  title: 理解についての内在主義と外在主義
+  journal: 新進研究者 Research Notes
+  number: 6
+  year: 2023
+  links:
+    - label: 刊行版へのアクセス
+      url: http://pssj.info/jsrnps/contents/contents_data/PSSJ_JSRNPS6(2023)_TANIGAWA_Sotaro.pdf
+
+- type: incollection
+  title: 認識論における理解の叙実性について
+  booktitle: 客観的世界と人称的世界についての研究
+  series: 千葉大学大学院人文公共学府研究プロジェクト報告書
+  number: 359
+  year: 2021
+  links:
+    - label: 刊行版へのアクセス
+      url: https://opac.ll.chiba-u.jp/da/curator/109491/359-p040.pdf

@@ -1,0 +1,44 @@
+# 口頭発表
+# date は "YYYY-MM-DD" 形式。
+# links は [ラベル] の形でタイトルの後ろに並ぶリンク。
+# 表示順は date の新しい順に自動で並ぶ。
+
+- title: 打ち負かし（Swamping）問題と信頼性主義
+  conference: 日本科学哲学会第58回大会
+  venue: 中央大学
+  date: 2025-11-29
+  links:
+    - label: 発表スライド
+      url: docs/presentations/2025-pssj.pdf
+
+- title: Can Understanding Be Transmitted by Testimony?
+  conference: Epistemology@Shibaura! Season 2
+  venue: 芝浦工業大学
+  date: 2025-07-12
+  links:
+    - label: 発表スライド
+      url: docs/presentations/2025-shibaura.pdf
+
+- title: 賢い人になる方法：徳理論と帰結主義
+  conference: 2024年度哲学若手研究者フォーラム研究集会
+  venue: 国立オリンピック記念青少年総合センター
+  date: 2024-07-14
+  links:
+    - label: 発表スライド
+      url: docs/presentations/2024-wakate-forum.html
+
+- title: 理解の価値と圧縮について
+  conference: 日本科学哲学会第56回大会
+  venue: 筑波大学
+  date: 2023-12-03
+  links:
+    - label: 配布資料
+      url: docs/presentations/2023-pssj.html
+
+- title: すべての認識的価値は真理の価値に由来するか？
+  conference: 2023年度哲学若手研究者フォーラム研究集会
+  venue: 国立オリンピック記念青少年総合センター
+  date: 2023-07-16
+  links:
+    - label: 発表スライド
+      url: docs/presentations/2023-wakate-forum.html

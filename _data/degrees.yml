@@ -1,0 +1,13 @@
+# 学位
+# date は学位取得年月で "YYYY-MM" 形式（引用符で囲む）。
+# 表示順は date の新しい順に自動で並ぶ。
+
+- degree: 修士（文学）
+  institution: 千葉大学
+  date: "2022-03"
+  thesis: 理解の内在主義に対する批判的検討
+
+- degree: 学士（文学）
+  institution: 龍谷大学
+  date: "2020-03"
+  thesis: 経験的知識の確実性について
