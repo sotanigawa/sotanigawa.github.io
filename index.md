@@ -11,7 +11,7 @@ description: 谷川綜太郎（Sotaro Tanigawa）のアカデミック・ポー�
   <li>
     {{ publication.title }}
     {% for link in publication.links %}
-    [<a href="{{ link.url }}">{{ link.label }}</a>]
+    [<a href="{{ link.url | relative_url }}">{{ link.label }}</a>]
     {% endfor %}<br />
     {% if publication.type == "incollection" %}
     {{ publication.booktitle }}（{{ publication.series }}、第{{ publication.number }}号）、{{ publication.year }}年
@@ -30,7 +30,7 @@ description: 谷川綜太郎（Sotaro Tanigawa）のアカデミック・ポー�
   <li>
     {{ presentation.title }}
     {% for link in presentation.links %}
-    [<a href="{{ link.url }}">{{ link.label }}</a>]
+    [<a href="{{ link.url | relative_url }}">{{ link.label }}</a>]
     {% endfor %}<br />
     {{ presentation.conference }}（{{ presentation.venue }}）、{{ presentation.date | date: "%Y年%-m月%-d日" }}
   </li>
