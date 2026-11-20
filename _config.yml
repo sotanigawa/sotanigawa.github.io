@@ -1,5 +1,8 @@
 title: 谷川綜太郎（Sotaro Tanigawa）
-description: 谷川綜太郎（Sotaro Tanigawa）の個人的なウェブサイト
+# description を空文字にしておくと、GitHub Pages がリポジトリの説明文
+# （About 欄）を自動で補わなくなり、トップページの <title> が名前だけになる。
+# サイトの説明文は index.md の front matter に書く。消さないこと。
+description: ""
 author: 谷川綜太郎
 lang: ja
 locale: ja_JP

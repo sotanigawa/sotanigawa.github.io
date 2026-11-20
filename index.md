@@ -1,7 +1,11 @@
 ---
-title: アカデミック・ポートフォリオ
-description: 谷川綜太郎（Sotaro Tanigawa）のアカデミック・ポートフォリオ
+title: 谷川綜太郎（Sotaro Tanigawa）
+description: 谷川綜太郎（Sotaro Tanigawa）の個人的なウェブサイト
 ---
+
+# 谷川綜太郎（Sotaro Tanigawa）
+
+分析哲学の方法で、認識論の問題を研究しています。[GitHub](https://github.com/sotanigawa)ではソフトウェアも公開しています。
 
 ## 論文
 
@@ -100,9 +104,3 @@ description: 谷川綜太郎（Sotaro Tanigawa）のアカデミック・ポー�
   <li>{{ society.name }}</li>
   {% endfor %}
 </ul>
-
----
-
-- [GitHub](https://github.com/sotanigawa)
-- [Google Scholar](https://scholar.google.co.jp/citations?user=o9_vcfoAAAAJ)
-- [Academia.edu](https://chiba-u.academia.edu/SotaroTanigawa)
